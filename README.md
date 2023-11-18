@@ -10,3 +10,5 @@ Introduction to MERW with simple codes: https://community.wolfram.com/groups/-/m
 The "pn junction MERW model.nb" file contains MERW diffusion model of diode as pn junction for article: https://arxiv.org/pdf/2112.12557
 
 Slides: https://www.dropbox.com/s/5rpafesdipzplk2/pn%20junction.pdf talk: https://www.youtube.com/watch?v=-nSMc7e5lsU
+
+![alt text](https://github.com/JarekDuda/pn-junction-diffusion-model/blob/main/pn%20junction%20diffusion%20model.jpg?raw=true)
